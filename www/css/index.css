@@ -1,0 +1,16 @@
+#fotos{
+    display:flex;
+    flex-wrap:wrap;
+    justify-content: space-between;
+}
+
+.foto{
+    width: 45%;
+    margin: 6px;    
+}
+
+
+img{
+    max-width: 100%;
+    vertical-align: top;
+}
